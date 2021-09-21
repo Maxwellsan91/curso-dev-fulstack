@@ -1,0 +1,16 @@
+body {
+    background: rgb(197, 197, 197) ;
+}
+
+.foto-principal {
+    width: 250px;
+    /* border-width: 5px;
+    border-style: solid;
+    border-color: black; */
+    border: 5px solid white; /* shorthand */
+    border-radius: 50%; /* Borda redonda */
+}
+
+p {
+    color: blue;
+}

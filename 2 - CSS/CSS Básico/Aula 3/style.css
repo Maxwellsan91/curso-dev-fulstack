@@ -1,0 +1,16 @@
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    /* background-position: 100% 10% ; */
+    background-position: center center ;
+    background-size: cover ;
+    background-attachment: fixed; /*background fica fixo*/
+}
+
+.foto-principal {
+    width: 350px;
+}
+
+p {
+    color: rgb(1, 1, 26);
+}
